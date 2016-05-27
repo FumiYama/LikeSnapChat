@@ -14,6 +14,16 @@
 		32483DAE1CF1874900C6287E /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 32483DAC1CF1874900C6287E /* LaunchScreen.storyboard */; };
 		32483DB91CF1874900C6287E /* LikeSnapChatTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 32483DB81CF1874900C6287E /* LikeSnapChatTests.swift */; };
 		32483DC41CF1874900C6287E /* LikeSnapChatUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 32483DC31CF1874900C6287E /* LikeSnapChatUITests.swift */; };
+		32483DD31CF1878F00C6287E /* LeftView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 32483DD11CF1878F00C6287E /* LeftView.swift */; };
+		32483DD41CF1878F00C6287E /* LeftView.xib in Resources */ = {isa = PBXBuildFile; fileRef = 32483DD21CF1878F00C6287E /* LeftView.xib */; };
+		32483DD71CF188F300C6287E /* CenterView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 32483DD51CF188F300C6287E /* CenterView.swift */; };
+		32483DD81CF188F300C6287E /* CenterView.xib in Resources */ = {isa = PBXBuildFile; fileRef = 32483DD61CF188F300C6287E /* CenterView.xib */; };
+		32483DDB1CF18A8D00C6287E /* RightView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 32483DD91CF18A8D00C6287E /* RightView.swift */; };
+		32483DDC1CF18A8D00C6287E /* RightView.xib in Resources */ = {isa = PBXBuildFile; fileRef = 32483DDA1CF18A8D00C6287E /* RightView.xib */; };
+		32483DDF1CF1900600C6287E /* UpView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 32483DDD1CF1900600C6287E /* UpView.swift */; };
+		32483DE01CF1900600C6287E /* UpView.xib in Resources */ = {isa = PBXBuildFile; fileRef = 32483DDE1CF1900600C6287E /* UpView.xib */; };
+		32AF854D1CF7FFC100757E5F /* DownView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 32AF854B1CF7FFC100757E5F /* DownView.swift */; };
+		32AF854E1CF7FFC100757E5F /* DownView.xib in Resources */ = {isa = PBXBuildFile; fileRef = 32AF854C1CF7FFC100757E5F /* DownView.xib */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +57,16 @@
 		32483DBF1CF1874900C6287E /* LikeSnapChatUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = LikeSnapChatUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		32483DC31CF1874900C6287E /* LikeSnapChatUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LikeSnapChatUITests.swift; sourceTree = "<group>"; };
 		32483DC51CF1874900C6287E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		32483DD11CF1878F00C6287E /* LeftView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LeftView.swift; sourceTree = "<group>"; };
+		32483DD21CF1878F00C6287E /* LeftView.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = LeftView.xib; sourceTree = "<group>"; };
+		32483DD51CF188F300C6287E /* CenterView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CenterView.swift; sourceTree = "<group>"; };
+		32483DD61CF188F300C6287E /* CenterView.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = CenterView.xib; sourceTree = "<group>"; };
+		32483DD91CF18A8D00C6287E /* RightView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = RightView.swift; sourceTree = "<group>"; };
+		32483DDA1CF18A8D00C6287E /* RightView.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = RightView.xib; sourceTree = "<group>"; };
+		32483DDD1CF1900600C6287E /* UpView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = UpView.swift; sourceTree = "<group>"; };
+		32483DDE1CF1900600C6287E /* UpView.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = UpView.xib; sourceTree = "<group>"; };
+		32AF854B1CF7FFC100757E5F /* DownView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DownView.swift; sourceTree = "<group>"; };
+		32AF854C1CF7FFC100757E5F /* DownView.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = DownView.xib; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +123,16 @@
 				32483DAA1CF1874900C6287E /* Assets.xcassets */,
 				32483DAC1CF1874900C6287E /* LaunchScreen.storyboard */,
 				32483DAF1CF1874900C6287E /* Info.plist */,
+				32483DDD1CF1900600C6287E /* UpView.swift */,
+				32483DDE1CF1900600C6287E /* UpView.xib */,
+				32483DD11CF1878F00C6287E /* LeftView.swift */,
+				32483DD21CF1878F00C6287E /* LeftView.xib */,
+				32483DD51CF188F300C6287E /* CenterView.swift */,
+				32483DD61CF188F300C6287E /* CenterView.xib */,
+				32483DD91CF18A8D00C6287E /* RightView.swift */,
+				32483DDA1CF18A8D00C6287E /* RightView.xib */,
+				32AF854B1CF7FFC100757E5F /* DownView.swift */,
+				32AF854C1CF7FFC100757E5F /* DownView.xib */,
 			);
 			path = LikeSnapChat;
 			sourceTree = "<group>";
@@ -229,8 +259,13 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				32AF854E1CF7FFC100757E5F /* DownView.xib in Resources */,
+				32483DE01CF1900600C6287E /* UpView.xib in Resources */,
 				32483DAE1CF1874900C6287E /* LaunchScreen.storyboard in Resources */,
 				32483DAB1CF1874900C6287E /* Assets.xcassets in Resources */,
+				32483DDC1CF18A8D00C6287E /* RightView.xib in Resources */,
+				32483DD41CF1878F00C6287E /* LeftView.xib in Resources */,
+				32483DD81CF188F300C6287E /* CenterView.xib in Resources */,
 				32483DA91CF1874900C6287E /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -257,7 +292,12 @@
 			buildActionMask = 2147483647;
 			files = (
 				32483DA61CF1874900C6287E /* ViewController.swift in Sources */,
+				32483DDF1CF1900600C6287E /* UpView.swift in Sources */,
+				32483DDB1CF18A8D00C6287E /* RightView.swift in Sources */,
+				32483DD31CF1878F00C6287E /* LeftView.swift in Sources */,
+				32AF854D1CF7FFC100757E5F /* DownView.swift in Sources */,
 				32483DA41CF1874900C6287E /* AppDelegate.swift in Sources */,
+				32483DD71CF188F300C6287E /* CenterView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -484,6 +524,7 @@
 				32483DCA1CF1874900C6287E /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		32483DCB1CF1874900C6287E /* Build configuration list for PBXNativeTarget "LikeSnapChatTests" */ = {
 			isa = XCConfigurationList;
@@ -492,6 +533,7 @@
 				32483DCD1CF1874900C6287E /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		32483DCE1CF1874900C6287E /* Build configuration list for PBXNativeTarget "LikeSnapChatUITests" */ = {
 			isa = XCConfigurationList;
@@ -500,6 +542,7 @@
 				32483DD01CF1874900C6287E /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

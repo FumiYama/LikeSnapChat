@@ -1,14 +1,14 @@
 //
-//  View3.swift
+//  DownView.swift
 //  LikeSnapChat
 //
-//  Created by Fumiya Yamanaka on 2016/05/22.
+//  Created by Fumiya Yamanaka on 2016/05/27.
 //  Copyright © 2016年 fumiya yamanaka. All rights reserved.
 //
 
 import UIKit
 
-class View3: UIViewController {
+class DownView: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()

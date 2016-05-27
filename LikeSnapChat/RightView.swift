@@ -1,5 +1,5 @@
 //
-//  View2.swift
+//  View3.swift
 //  LikeSnapChat
 //
 //  Created by Fumiya Yamanaka on 2016/05/22.
@@ -8,7 +8,7 @@
 
 import UIKit
 
-class View2: UIViewController {
+class RightView: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
